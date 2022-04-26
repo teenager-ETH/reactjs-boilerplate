@@ -1,8 +1,10 @@
-# HoverTrust landing page
+# ReactJS NextJS Boilerplate
+
+This repo is a basic definition of a ReactJS project that we like to use at Zircon. Follow the instalation guide below and the [code guidelines](https://github.com/zircon-tech/reactjs-boilerplate/blob/master/GUIDELINES.md)
 
 ## Tech Stack
 
-NextJs with Typscript + TailwindCss
+NextJs with Typescript + TailwindCss + DaisyUI
 
 ## Setup
 
@@ -68,4 +70,4 @@ In case a published build is broken on the production page, go to `Deploys` -> s
 
 ## Resources
 
-Docs [Netlify's CLI] (https://docs.netlify.com/cli/get-started/)
+Docs [Netlify's CLI](https://docs.netlify.com/cli/get-started/)
