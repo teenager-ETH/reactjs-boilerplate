@@ -1,6 +1,6 @@
 # ReactJS NextJS Boilerplate
 
-This repo is a basic definition of a ReactJS project that we like to use at Zircon. Follow the instalation guide below and the [code guidelines](https://github.com/zircon-tech/reactjs-boilerplate/blob/master/GUIDELINES.md)
+This repo is a basic definition of a ReactJS project that we like to use at Zircon. Follow the installation guide below and the [code guidelines](https://github.com/zircon-tech/reactjs-boilerplate/blob/master/GUIDELINES.md)
 
 ## Tech Stack
 
